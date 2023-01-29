@@ -4,12 +4,12 @@
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrodriguesj/)
 
+![Pixel Art 8bit City](https://user-images.githubusercontent.com/109962612/215342010-2e94868a-1ad1-4624-80a8-9622f5d3cfa8.gif)
+
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielRodriguesFerreira-TI&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GabrielRodriguesFerreira-TI github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRodriguesFerreira-TI&layout=compact&langs_count=16&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
-
-![Pixel Art 8bit City](https://user-images.githubusercontent.com/109962612/215342010-2e94868a-1ad1-4624-80a8-9622f5d3cfa8.gif)
 
 ### Tecnologias que domíno
 
