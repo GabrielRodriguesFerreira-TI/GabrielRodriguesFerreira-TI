@@ -19,6 +19,8 @@ Possuo sólido conhecimento de frameworks populares de Front-End e Back-End, com
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRodriguesFerreira-TI&layout=compact&langs_count=16&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielRodriguesFerreira-TI&theme=2077)
+
 ### Tecnologias que domíno
 
 <div style="display: inline_block"><br/>
