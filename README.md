@@ -11,6 +11,7 @@ Possuo sólido conhecimento de frameworks populares de Front-End e Back-End, com
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrodriguesj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-ferreira-27b21b243/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti.gabrielrf@gmail.com)
 
 ![Pixel Art 8bit City](https://user-images.githubusercontent.com/109962612/215342010-2e94868a-1ad1-4624-80a8-9622f5d3cfa8.gif)
 
