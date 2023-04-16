@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=039c9e&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&text=GabrielRodriguesFerreira-TI"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=039c9e&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&text=Gabriel Rodrigues Ferreira"/>
 
 ### Ola! Eu me chamo Gabriel Rodrigues Ferreira, e bem vindo ao meu mundo!
 
