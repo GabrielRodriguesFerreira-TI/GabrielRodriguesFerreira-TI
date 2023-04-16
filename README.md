@@ -1,6 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=039c9e&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&text=GabrielRF"/>
 
 ### Ola! Eu me chamo Gabriel Rodrigues Ferreira, e bem vindo ao meu mundo!
+<div>
+  <p>
+    Desenvolvedor Full-Stack Com experiência em HTML, CSS, JavaScript e TypeScript para criação de interfaces de usuário responsivas e atraentes, como para criação de tabelas e APIRestful bem identadas e funcionais.
+
+Possuo sólido conhecimento de frameworks populares de Front-End e Back-End, como React, NextJs, NodeJs, Express, Python, PostgreSQL, MongoDB e Docker, além de habilidades em desenvolvimento de softwares, como versionamento de código, integração contínua e testes automatizados. Experiência com técnicas de otimização de desempenho e SEO (Search Engine Optimization), uso contínuo metodologias ágeis, como Scrum ou Kanban. Forte habilidade de resolução de problemas e solução de bugs de forma eficiente e eficaz.
+  </p>
+</div>
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrodriguesj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-ferreira-27b21b243/)
